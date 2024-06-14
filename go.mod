@@ -1,4 +1,4 @@
-module github.com/emicklei/go-restful-openapi/v2
+module github.com/AccelByte/go-restful-openapi/v2
 
 require (
 	github.com/emicklei/go-restful/v3 v3.11.0

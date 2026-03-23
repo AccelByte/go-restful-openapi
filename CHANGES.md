@@ -3,7 +3,7 @@
 # v2+ versions are using the Go module of go-restful v3+
 
 
-## v2.10.3
+## v2.10.2-0.2.0
 
 - allow providing example value to a property via "example" tag (#124)
 - fix(enum): make enum field to be located in items object instead of in the root definition object (#123)
